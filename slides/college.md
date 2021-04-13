@@ -14,6 +14,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/swift.md">Next</a>
+		<a href="swift.md">Next</a>
 	</div>
 </div>
