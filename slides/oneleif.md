@@ -9,6 +9,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/open-source.md">Next</a>
+		<a href="open-source.md">Next</a>
 	</div>
 </div>

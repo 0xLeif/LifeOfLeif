@@ -10,6 +10,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/oneleif.md">Next</a>
+		<a href="slidesoneleif.md">Next</a>
 	</div>
 </div>

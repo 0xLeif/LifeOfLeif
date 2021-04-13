@@ -42,6 +42,6 @@ Started GW2 API Wrapper
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/highschool.md">Next</a>
+		<a href="../README.md">Next</a>
 	</div>
 </div>

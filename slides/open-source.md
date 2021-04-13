@@ -10,6 +10,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/iOS-career.md">Next</a>
+		<a href="iOS-career.md">Next</a>
 	</div>
 </div>

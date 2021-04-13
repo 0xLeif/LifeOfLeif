@@ -18,6 +18,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/internships.md">Next</a>
+		<a href="internships.md">Next</a>
 	</div>
 </div>
