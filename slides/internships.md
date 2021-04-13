@@ -12,6 +12,6 @@
 		<a href="../README.md">Prev</a>
 	</div>
 	<div style="float: right">
-		<a href="slides/highschool.md">Next</a>
+		<a href="slides/iOS-beginning.md">Next</a>
 	</div>
 </div>
