@@ -18,3 +18,5 @@
 		<a href="interviews.md">Next</a>
 	</div>
 </div>
+
+> [README](../README.md) --> [Highschool](slides/highschool.md) --> [Internships](slides/internships.md) --> [iOS Beginning](slides/iOS-beginning.md) --> [College](slides/college.md) --> [Swift](slides/swift.md) --> [oneleif](slides/oneleif.md) --> [Open Source](slides/open-source.md) --> [iOS Career] --> [Interviews](slides/interviews.md) --> [Timeline](slides/timeline.md)
