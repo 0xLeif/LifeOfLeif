@@ -37,7 +37,7 @@ Started GW2 API Wrapper
 
 ***
 
-<div>
+<div style="padding: 16;">
 	<div style="float: left">
 		<a href="../README.md">Prev</a>
 	</div>
