@@ -15,4 +15,4 @@
 	</div>
 </div>
 
-> [README](../README.md) --> [Highschool](slides/highschool.md) --> [Internships](slides/internships.md) --> [iOS Beginning](slides/iOS-beginning.md) --> [College](slides/college.md) --> [Swift](slides/swift.md) --> [oneleif](slides/oneleif.md) --> [Open Source](slides/open-source.md) --> [iOS Career](slides/iOS-career.md) --> [Interviews] --> [Timeline](slides/timeline.md)
+> [README](../README.md) --> [Highschool](highschool.md) --> [Internships](internships.md) --> [iOS Beginning](iOS-beginning.md) --> [College](college.md) --> [Swift](swift.md) --> [oneleif](oneleif.md) --> [Open Source](open-source.md) --> [iOS Career](iOS-career.md) --> [Interviews] --> [Timeline](timeline.md)
