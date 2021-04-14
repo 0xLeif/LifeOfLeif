@@ -1,7 +1,26 @@
 ## Swift
 - **Self Taught**
-- From Obj-C
-- ~ 5 Years 
+- From Obj-C and Java
+
+
+**Objective C**
+```objc
+- (void)sayHello:(NSString *)word;
+{
+    NSLog(@"Hello, %@!", word);
+}
+
+[self sayHello: @"World"];
+```
+
+**Swift**
+```swift
+func sayHello(_ word: String) {
+    print("Hello, \(word)!")
+}
+
+sayHello("World")
+```
 
 ***
 
