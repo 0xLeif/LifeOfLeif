@@ -1,4 +1,4 @@
-## Internships
+# Internships
 
 - Bioinformatics
 - Game Development
