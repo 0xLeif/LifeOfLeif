@@ -1,7 +1,7 @@
 ## iOS
 - **Self Taught**
 - Started in Highschool with Obj-C
-- iOS Student dev at the Attic
+- iOS Student developer at the Attic
 
 ***
 
