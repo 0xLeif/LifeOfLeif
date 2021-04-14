@@ -1,3 +1,5 @@
+# Highschool
+
 ## Computer Classes
 - Java
 - AP Computer Science
