@@ -1,9 +1,7 @@
-## Internship
-- Highschool
-- 	bioinformatics 
-- 	game development
-- College
-- 	iOS
+## Internships
+
+- Bioinformatics
+- Game Development
 
 ***
 
