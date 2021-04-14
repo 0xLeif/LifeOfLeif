@@ -7,7 +7,7 @@
 
 <div style="padding: 16;">
 	<div style="float: left">
-		<a href="../README.md">Prev</a>
+		<a href="internships.md">Prev</a>
 	</div>
 	<div style="float: right">
 		<a href="college.md">Next</a>
