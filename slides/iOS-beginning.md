@@ -1,4 +1,4 @@
-## iOS
+# iOS Beginning
 - **Self Taught**
 - Started in Highschool with Obj-C
 - iOS Student developer at the Attic
