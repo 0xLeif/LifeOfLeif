@@ -1,16 +1,16 @@
-## College
+# College
 
-### Classes
+## Classes
 - Theory of Automata
 - Programming Lanagues
 - Operating Systems
 - Calculus
 - Capstone 
 
-### Club
+## Club
 - Lost Encoding
 
-### Internship
+## Internship
 - iOS
 
 ***
