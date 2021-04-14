@@ -3,6 +3,7 @@
 **[Website](https://oneleif.com/)**
 
 - Started in 2016 with a couple of friends
+- Gain experience without an internship or a job
 - Work on Open Source projects with people from around the world
 - Help other nonprofits
 - Mentor iOS developers 
