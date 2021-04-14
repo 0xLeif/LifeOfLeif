@@ -1,11 +1,17 @@
 ## College
-- Classes
-- Clubs
-- 	Game Developers
 
-## Internship
-- College
-- 	iOS
+### Classes
+- Theory of Automata
+- Programming Lanagues
+- Operating Systems
+- Calculus
+- Capstone 
+
+### Club
+- Lost Encoding
+
+### Internship
+- iOS
 
 ***
 
