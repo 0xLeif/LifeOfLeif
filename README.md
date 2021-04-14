@@ -6,6 +6,7 @@
 - I graduated from UNO (2019) with a bachelors degree in Computer Science and a concentration in Game Development. 
 - I work at [From Now On](https://from-now-on.com/) as the Lead iOS Developer.
 - I have a passion for Open Source development.
+- I got married in 2020.
 - I have a dog named Hunter.
 
 <img src="https://user-images.githubusercontent.com/8268288/114767427-3ac4d780-9d2d-11eb-9c79-61d8426e7b2f.JPG" width="256">
