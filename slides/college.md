@@ -17,7 +17,7 @@
 
 <div style="padding: 16;">
 	<div style="float: left">
-		<a href="../README.md">Prev</a>
+		<a href="iOS-beginning.md">Prev</a>
 	</div>
 	<div style="float: right">
 		<a href="swift.md">Next</a>
