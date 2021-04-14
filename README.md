@@ -2,7 +2,9 @@
 
 ## Who am I
 
-I am Leif.
+- I graduated from UNO (2019) with a bachelors degree in Computer Science and a concentration in Game Development. 
+- I work at [From Now On](https://from-now-on.com/) as the Lead iOS Developer.
+- I have a passion for Open Source development.
 
 ***
 
