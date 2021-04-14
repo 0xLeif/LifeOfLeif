@@ -4,12 +4,8 @@
 - Independent Study (1 year)
 
 ## UNO Summer Internships
-- 	Bioinformatics 
-- 	Game Development
-
-## iOS
-- **Self Taught**
-- Started in Highschool with Obj-C
+- Bioinformatics 
+- Game Development
 
 ***
 
