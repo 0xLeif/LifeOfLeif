@@ -12,7 +12,7 @@
 
 <div style="padding: 16;">
 	<div style="float: left">
-		<a href="../README.md">Prev</a>
+		<a href="open-source.md">Prev</a>
 	</div>
 	<div style="float: right">
 		<a href="interviews.md">Next</a>
