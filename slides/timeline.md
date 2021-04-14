@@ -1,74 +1,74 @@
-Developer Timeline
+# Developer Timeline
 
-2012
+## 2012
 
-Started learning programming
+- Started learning programming
 
-2013
+## 2013
 
-Started iOS Development
+- Started iOS Development
 
-2014
+## 2014
 
-Released GroceryAid to the iOS App Store
+- Released GroceryAid to the iOS App Store
 
-Released Mi Message to the iOS App Store
+- Released Mi Message to the iOS App Store
 
-Graduated High-school
+- Graduated High-school
 
-Student iOS Developer for UNO
+- Student iOS Developer for UNO
 
-Started learning Swift
+- Started learning Swift
 
-2015
+## 2015
 
-Released Tap Game Series to the iOS App Store
+- Released Tap Game Series to the iOS App Store
 
-2016
+## 2016
 
-Released Simply Count to the iOS App Store
+- Released Simply Count to the iOS App Store
 
-Released NoteMap to the iOS App Store
+- Released NoteMap to the iOS App Store
 
-Started oneleif
+- Started oneleif
 
-2017
+## 2017
 
-Started as Intern for Client Resources Inc.
+- Started as Intern for Client Resources Inc.
 
-2018
+## 2018
 
-Released NoteMap 2 to the iOS App Store
+- Released NoteMap 2 to the iOS App Store
 
-2019
+## 2019
 
-Graduated College
+- Graduated College
 
-Started as iOS Developer for From Now On Inc.
+- Started as iOS Developer for From Now On Inc.
 
-Released oneleif API v0.1
+- Released oneleif API v0.1
 
-Released SF v0.1
+- Released SF v0.1
 
-Released SwiftUIKit v0.1.0
+- Released SwiftUIKit v0.1.0
 
-2020
+## 2020
 
-Registered oneleif as a Non-Profit
+- Registered oneleif as a Non-Profit
 
-Released SwiftUIKit v1.0.0
+- Released SwiftUIKit v1.0.0
 
-Released oneleif API v0.2.0
+- Released oneleif API v0.2.0
 
-Started GW2 API Wrapper
+- Started GW2 API Wrapper
 
-2021 Goals
+## 2021 Goals
 
-[x] Release an app
+- [x] Release an app
 
-[ ] Build a blog site using Swift
+- [ ] Build a blog site using Swift
 
-[ ] Finish the oneleif Website
+- [ ] Finish the oneleif Website Version 2
 
 
 ***
