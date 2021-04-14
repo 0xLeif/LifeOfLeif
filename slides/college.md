@@ -2,7 +2,7 @@
 
 ## Classes
 - Theory of Automata
-- Programming Lanagues
+- Programming Languages
 - Operating Systems
 - Calculus
 - Capstone 
