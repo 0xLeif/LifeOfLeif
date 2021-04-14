@@ -1,6 +1,9 @@
 ## oneleif
-- Started 2016
-- oneleif website
+- Started in 2016 with a couple of friends
+- Work on Open Source projects with people from around the world
+- Help other nonprofits
+- [Website](https://oneleif.com/)
+- Mentor iOS developers 
 
 ***
 
