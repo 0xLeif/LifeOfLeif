@@ -1,4 +1,4 @@
-## Swift
+# Swift
 - **Self Taught**
 - From Obj-C and Java
 
