@@ -1,15 +1,17 @@
 ## oneleif
+
+**[Website](https://oneleif.com/)**
+
 - Started in 2016 with a couple of friends
 - Work on Open Source projects with people from around the world
 - Help other nonprofits
-- [Website](https://oneleif.com/)
 - Mentor iOS developers 
 
 ***
 
 <div style="padding: 16;">
 	<div style="float: left">
-		<a href="../README.md">Prev</a>
+		<a href="swift.md">Prev</a>
 	</div>
 	<div style="float: right">
 		<a href="open-source.md">Next</a>
