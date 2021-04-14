@@ -26,7 +26,7 @@ sayHello("World")
 
 <div style="padding: 16;">
 	<div style="float: left">
-		<a href="../README.md">Prev</a>
+		<a href="college.md">Prev</a>
 	</div>
 	<div style="float: right">
 		<a href="oneleif.md">Next</a>
